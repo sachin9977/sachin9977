@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Choudhary</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<p> I am a web developer and an electronics engineer too! I completed my B.Tech from College of Engineering, Pune and currently I am into web development at Masai School. I always wanted to learn about the tech stack behind the web tech since my engineering days, and as soon as I completed my engineering, I pushed myself into MERN stack development which is an amazing technology used worldwide nowadays, creating an efficient environment for developers and making faster and easier user experience. </p>
+<p> I am a web developer and an electronics engineer too! I completed my BCA from College of Engineering, Indore and currently I am into web development at Masai School. I always wanted to learn about the tech stack behind the web tech since my engineering days, and as soon as I completed my engineering, I pushed myself into MERN stack development which is an amazing technology used worldwide nowadays, creating an efficient environment for developers and making faster and easier user experience. </p>
 <p>I must tell you, as a web developer, the more I use a piece of code, the more confident and familiar I become with it which in turn speeds up my development time!</p>
 <br>
 <br>
@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **sc09626@gmail.com**
 
-- 📄 Know about my work in my <a href="https://drive.google.com/file/d/1TJCj9LS1xfUg3OC0XMZk65VMqzMnlvJ-/view" target="_blank">RESUME</a>
+- 📄 Know about my work in my <a href="#" target="_blank">RESUME</a>
 
 - ⚡ Fun fact - **I am creative and I love animals and nature!**
 
