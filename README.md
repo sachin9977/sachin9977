@@ -11,7 +11,7 @@
 
 
 
-<img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" />
+<img src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" width="300" height="280" align="right" />
 
 
 - 🔭 I’m currently working on **MERN Stack**
