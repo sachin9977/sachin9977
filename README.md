@@ -18,13 +18,13 @@
 
 - 🌱 I’m currently learning **React, Redux, MongoDB, Express**
 
-- 👨‍💻 All of my projects are available at <a href="#" target="_blank">Link</a>
+- 👨‍💻 All of my projects are available at <a href="https://sachin9977.github.io/" target="_blank">Link</a>
 
 - 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **sc09626@gmail.com**
 
-- 📄 Know about my work in my <a href="#" target="_blank">RESUME</a>
+- 📄 Know about my work in my <a href="https://drive.google.com/file/d/1c16J6TLGmYI8ur5zRwoYRtp9Ir1o4tD3/view?usp=share_link" target="_blank">RESUME</a>
 
 - ⚡ Fun fact - **I am creative and I love animals and nature!**
 
